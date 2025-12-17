@@ -207,6 +207,4 @@ Connect on [LinkedIn](https://www.linkedin.com/in/omar-khalil-10om01) or check m
 ## License
 
 This project is for **Research purposes**.
-All dataset and model weights belong to their respective owners.
-
 ---
