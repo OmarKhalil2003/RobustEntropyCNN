@@ -1,0 +1,5 @@
+model_name: grouped_cnn
+use_grouped_conv: true
+groups: 4
+use_depthwise: false
+use_attention: false

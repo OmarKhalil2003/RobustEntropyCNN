@@ -1,0 +1,16 @@
+fgsm:
+  eps: [0.01, 0.03, 0.1]
+
+pgd:
+  eps: 0.03
+  alpha: 0.005
+  steps: 20
+
+bim:
+  eps: 0.03
+  alpha: 0.005
+  steps: 10
+
+cw:
+  c: 1.0
+  steps: 100

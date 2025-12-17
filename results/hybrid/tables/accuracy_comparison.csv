@@ -1,0 +1,4 @@
+Setting,Accuracy
+Clean,0.8549
+FGSM,0.1
+PGD,0.1
