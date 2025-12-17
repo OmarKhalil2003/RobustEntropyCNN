@@ -196,3 +196,17 @@ Entropy **detects failures reliably** but **does not provide robustness by itsel
 > This project extends entropy-based monitoring from a **conceptual diagnostic tool** into a **deployable reliability framework**, addressing architectural diversity, decision-making, and adversarial severity — without contradicting the original paper’s claims.
 
 ---
+##  Author
+
+**Omar Khalil**
+MSc Researcher @ AASTMT
+Connect on [LinkedIn](https://www.linkedin.com/in/omar-khalil-10om01) or check more projects!
+
+---
+
+## License
+
+This project is for **Research purposes**.
+All dataset and model weights belong to their respective owners.
+
+---
